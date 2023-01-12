@@ -1,0 +1,3 @@
+[submodule "mylib-submodule"]
+	path = mylib-submodule
+	url = https://github.com/amborg1of1/mylib.git
